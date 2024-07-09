@@ -1,5 +1,8 @@
 # Weather Dashboard Application
 
+## Application Design
+![alt text](https://res.cloudinary.com/dltsmhfit/image/upload/v1720503329/applicationDesign_jjfxiw.jpg)
+
 ## Overview
 
 This project is a comprehensive web application designed to provide detailed weather-related information and planning tools for three primary user groups: Farmers, Travelers, and Event Planners. The application aims to deliver precise and relevant weather data to help users make informed decisions based on current and forecasted weather conditions. Key features include location-based weather data, customized quote lines, and specialized dashboards for each user group.
