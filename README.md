@@ -39,3 +39,11 @@ This project is a web application that offers services in three main categories:
 1. Clone the repository:
    ```sh
    git clone https://github.com/Ranjan2104/weather-dashboard.git
+   
+2. How to start:
+   ```sh
+   npm install
+   
+3. Clone the repository:
+   ```sh
+   npm run dev
