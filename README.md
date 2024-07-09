@@ -1,7 +1,7 @@
 # Weather Dashboard Application
 
 ## Application Design
-![alt text](https://res.cloudinary.com/dltsmhfit/image/upload/v1720503329/applicationDesign_jjfxiw.jpg)
+![alt text](https://res.cloudinary.com/dltsmhfit/image/upload/v1720504042/media_20240709_104935_667903313568170798_htsrkg.jpg)
 
 ## Overview
 
