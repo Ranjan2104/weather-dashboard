@@ -38,4 +38,4 @@ This project is a web application that offers services in three main categories:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Ranjan2104/weather-dashboard.git
