@@ -44,6 +44,6 @@ This project is a web application that offers services in three main categories:
    ```sh
    npm install
    
-3. Clone the repository:
+3. Run Command:
    ```sh
    npm run dev
